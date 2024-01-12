@@ -16,7 +16,7 @@ Have you ever wanted to ask someone out but weren't sure how to do it? Well, thi
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/olhomes/the-date-invitation-page.git
+   git clone https://github.com/olhomes/cute.git
    ```
 
 2. Run local server by using ```http-server```:
