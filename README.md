@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# The-Date-Invitation-Page-
-For all lovers
-=======
 # Welcome to the Date Invitation Page! 🌹
 
 This is a simple web page dedicated to inviting someone on a date. 💑
@@ -27,4 +23,3 @@ Have you ever wanted to ask someone out but weren't sure how to do it? Well, thi
     ```bash
     npx http-server -p 1234 .
     ```
->>>>>>> initial commit
